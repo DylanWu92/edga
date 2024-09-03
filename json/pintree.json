@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1662079566782,
-    "title": "收藏夹",
+    "title": "收藏夹栏",
     "children": [
       {
         "type": "folder",
@@ -274,6 +274,13 @@
             "title": "http://39.103.151.163:1961",
             "icon": "https://logo.clearbit.com/39.103.151.163",
             "url": "http://39.103.151.163:1961/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724738011398,
+            "title": "零售单券明细查询",
+            "icon": "https://logo.clearbit.com/elk.lab.ports-intl.com",
+            "url": "https://elk.lab.ports-intl.com/app/kibana#/discover?_g=(refreshInterval:(pause:!t,value:0),time:(from:now-60d,mode:quick,to:now))&_a=(columns:!(message),index:'813bd750-612c-11eb-a58c-1f18517d395b',interval:auto,query:(language:kuery,query:'path:%20%22%2Fpos%2FPosOrder%2FPosOrderRebuild2Prim%22%20and%20%22RE24082600594%22'),sort:!('@timestamp',desc))"
           }
         ]
       },
@@ -332,7 +339,7 @@
               {
                 "type": "link",
                 "addDate": 1673486917394,
-                "title": "https://blog.daliansky.net",
+                "title": "黑苹果小兵部落",
                 "icon": "https://logo.clearbit.com/blog.daliansky.net",
                 "url": "https://blog.daliansky.net/"
               },
@@ -1585,6 +1592,13 @@
                     "title": "VMware&ESXI虚拟机黑群晖7.2 正式版 (懒人包)_黑群晖dms7.2正式版 vmware懒人包-CSDN博客",
                     "icon": "https://logo.clearbit.com/blog.csdn.net",
                     "url": "https://blog.csdn.net/u012514495/article/details/130830382"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724744052325,
+                    "title": "飞牛私有云 fnOS",
+                    "icon": "https://logo.clearbit.com/www.fnnas.com",
+                    "url": "https://www.fnnas.com/download"
                   }
                 ]
               },
@@ -1818,6 +1832,33 @@
                     "url": "https://www.nvdacn.com/index.php/archives/1122/#%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86"
                   }
                 ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1724660727742,
+                "title": "软路由",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1724660727743,
+                    "title": "新建文件夹",
+                    "children": []
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724660730390,
+                    "title": "[OpenWrt Wiki] Table of Hardware",
+                    "icon": "https://logo.clearbit.com/openwrt.org",
+                    "url": "https://openwrt.org/toh/start"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724895850179,
+                    "title": "Index of /",
+                    "icon": "https://logo.clearbit.com/archive.openwrt.org",
+                    "url": "https://archive.openwrt.org/"
+                  }
+                ]
               }
             ]
           },
@@ -1853,6 +1894,13 @@
                 "title": "容大RP325",
                 "icon": "https://logo.clearbit.com/www.rongtatech.cn",
                 "url": "https://www.rongtatech.cn/category/downloads/12"
+              },
+              {
+                "type": "link",
+                "addDate": 1725237388062,
+                "title": "设置工具 - 思普瑞特官网",
+                "icon": "https://logo.clearbit.com/www.sprinter.com.cn",
+                "url": "https://www.sprinter.com.cn/list-16-1.html"
               }
             ]
           },
@@ -1867,6 +1915,20 @@
                 "title": "7-Zip",
                 "icon": "https://logo.clearbit.com/www.7-zip.org",
                 "url": "https://www.7-zip.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724829242443,
+                "title": "Alist网盘下载 ",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/alist-org/alist/releases/tag/v3.36.0"
+              },
+              {
+                "type": "link",
+                "addDate": 1724829903563,
+                "title": "alist网盘",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/alist-org/alist"
               }
             ]
           },
@@ -1946,6 +2008,13 @@
             "title": "设置FreeNAS为中文-百度经验",
             "icon": "https://logo.clearbit.com/jingyan.baidu.com",
             "url": "https://jingyan.baidu.com/article/ff42efa97ace99809f22023d.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724291627476,
+            "title": "安全运维：cmd命令大全（非常详细）零基础入门到精通，收藏这一篇就够了-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/dzqxwzoe/article/details/139693976"
           }
         ]
       },
@@ -1990,6 +2059,41 @@
         "title": "书链",
         "icon": "https://logo.clearbit.com/xue.bookln.cn",
         "url": "https://xue.bookln.cn/book/110910/52416d"
+      },
+      {
+        "type": "link",
+        "addDate": 1724122274206,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/dylanwu92.github.io",
+        "url": "https://dylanwu92.github.io/pintree/"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1662079566782,
+    "title": "其他收藏夹",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1622449111369,
+        "title": "h5.693975.com/game_e/index.php?id=1148",
+        "icon": "https://logo.clearbit.com/h5.693975.com",
+        "url": "http://h5.693975.com/game_e/index.php?id=1148"
+      },
+      {
+        "type": "link",
+        "addDate": 1671178369173,
+        "title": "OpenAI",
+        "icon": "https://logo.clearbit.com/openai.com",
+        "url": "https://openai.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1724749883230,
+        "title": "Page not found",
+        "icon": "https://logo.clearbit.com/www.vmware.com",
+        "url": "https://www.vmware.com/%EF%BC%89%E6%88%96%E6%9F%A5%E9%98%85%E6%9C%80%E6%96%B0%E7%9A%84%E6%8A%80%E6%9C%AF%5B%E6%96%87%E6%A1%A3%5D(https://geek.csdn.net/edu/300981ef51993cfd737d329c71ba77f9?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDQ0MDg2MiwiZXhwIjoxNzA3MzcxOTM4LCJpYXQiOjE3MDY3NjcxMzgsInVzZXJuYW1lIjoid2VpeGluXzY4NjQ1NjQ1In0.RrTYEnMNYPC7AQdoij4SBb0kKEgHoyvF-bZOG2eGQvc&spm=1055.2569.3001.10083)%EF%BC%88%E4%BE%8B%E5%A6%82%E3%80%8AVMware"
       }
     ]
   }
